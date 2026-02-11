@@ -13,9 +13,9 @@ font-size : 2rem;
 <div id="page">
 
 #page {
+border : 5px solid black
 width : 90%;
-background-color : black;
-border : 2px;
+background-color : white
 }
 
 .entete {
@@ -24,6 +24,7 @@ text-align : center;
 
 #aboutme {
 color : purple;
+text-align : center
 }
 
 footer {
