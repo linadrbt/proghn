@@ -12,17 +12,17 @@ font-size : 2rem;
 
 <div id="page">
 
-page {
+.page {
 width : 90%;
 background-color : black;
 border : 2px;
 }
 
-entete {
+.entete {
 text-align : center;
 }
 
-aboutme {
+.aboutme {
 color : purple;
 }
 
